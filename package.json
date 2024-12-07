@@ -1,0 +1,38 @@
+{
+  "name": "notimpc_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.5",
+    "@types/react": "18.2.17",
+    "@types/react-dom": "18.2.7",
+<<<<<<< HEAD
+    "typescript": "5.1.6"
+=======
+    "eslint": "8.29.0",
+    "eslint-config-next": "13.4.12",
+    "eslint-plugin-react": "8.0.0",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "prettier": "2.8.4",
+    "typescript": "5.1.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+    "npm": ">=8.0.0"
+    "yarn": ">=1.22.17"
+  
+>>>>>>> c7bdfb6 (first commit)
+  }
+}
+
